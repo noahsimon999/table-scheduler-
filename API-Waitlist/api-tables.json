@@ -1,0 +1,32 @@
+[
+    {
+    "customerName": "Ahmed",
+    "customerEmail": "afhaque89@gmail.com",
+    "customerID": "afhaque89",
+    "phoneNumber": "979-587-0887"
+    },
+    {
+    "customerName": "z",
+    "phoneNumber": "123123",
+    "customerEmail": "asd@asd.com",
+    "customerID": "12"
+    },
+    {
+    "customerName": "Slim Shady",
+    "phoneNumber": "darealSlim",
+    "customerEmail": "shady@aol.com",
+    "customerID": "555"
+    },
+    {
+    "customerName": "Antonio",
+    "phoneNumber": "83255555",
+    "customerEmail": "antoniojgage@github.com",
+    "customerID": "sumSurisous"
+    },
+    {
+    "customerName": "lkja",
+    "phoneNumber": "jlkj",
+    "customerEmail": "lkj",
+    "customerID": "lkj"
+    }
+]
