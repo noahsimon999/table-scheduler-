@@ -1,0 +1,32 @@
+[
+    {
+    "customerName": "Saima",
+    "customerEmail": "saima@gmail.com",
+    "phoneNumber": "979-587-0887",
+    "customerID": "saimacool"
+    },
+    {
+    "customerName": "lkdjfl",
+    "phoneNumber": "l;kjlk",
+    "customerEmail": "jlkjl;j",
+    "customerID": "lkklj"
+    },
+    {
+    "customerName": "foo",
+    "phoneNumber": "555-555-5555",
+    "customerEmail": "bar@foo.com",
+    "customerID": "foobar"
+    },
+    {
+    "customerName": "Geoff",
+    "phoneNumber": "88888888",
+    "customerEmail": "hello@gmai.com",
+    "customerID": "GeoffTable"
+    },
+    {
+    "customerName": "Chaminda Mapa",
+    "phoneNumber": "7655325857",
+    "customerEmail": "chaminda.mapa@gmail.com",
+    "customerID": "1"
+    }
+]
