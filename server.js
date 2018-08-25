@@ -27,14 +27,14 @@ app.get ("/tables", function(req, res) {
 });
 
 app.get ("/api/reservations", function(req, res) {
- res.sendFile(path,join(__dirname, "/API-Waitlist/api-reservations.json"));
+    res.sendFile(path.join(__dirname, "/API-Waitlist/api-reservations.json"));
 });
 
 app.get ("/api/tables", function(req, res) {
-    res.sendFile(path,join(__dirname, "/API-Waitlist/api-tables.json"));
+    res.sendFile(path.join(__dirname, "/API-Waitlist/api-tables.json"));
 });
-
 
 app.listen(PORT, function() {
     console.log("App listening on PORT " + PORT);
-  });
+});
+
